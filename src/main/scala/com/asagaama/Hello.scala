@@ -6,4 +6,6 @@ package com.asagaama
 object Hello {
 
   def displaySalutation = "Hello World"
+
+  def add(x: Int, y: Int) : Int = x + y
 }
