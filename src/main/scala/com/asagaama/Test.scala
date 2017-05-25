@@ -5,8 +5,6 @@ package com.asagaama
   */
 object Test {
 
-  def testSalutation = "Hello Test"
-
   def subtract(a: Int, b: Int) : Int = a - b
 
   def add(x: Int, y: Int) : Int = x + y
